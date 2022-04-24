@@ -1,0 +1,153 @@
+,Section,Section Description
+1,A,"Agriculture, forestry and fishing"
+2,B,Mining and quarrying
+3,C,Manufacturing
+4,D,"Electricity, gas, steam and air conditioning supply"
+5,E,"Water supply; sewerage, waste management and remediation activities"
+6,F,Construction
+7,G,Wholesale and retail trade; repair of motor vehicles and motorcycles
+8,H,Transport and storage
+9,I,Accommodation and food services
+10,J,Information and communication
+11,K,Financial and insurance activities
+12,L,Real estate activities
+13,M,"Professional, scientific and technical activities"
+14,N,Administrative and support service activities
+15,O,Public administration and defence; compulsory social security
+16,P,Education
+17,Q,Human health and social work activities
+18,R,"Arts, entertainment and recreation"
+19,S,Other service activities
+20,T,Activities of households as employers; undifferentiated goods and services-producing activities of households for own use
+21,-,Consumer expenditure
+22,1,"Products of agriculture, hunting and related services"
+23,2,"Products of forestry, logging and related services"
+24,A,Fish and other fishing products; aquaculture products; support services to fishing
+25,B,Mining of coal and lignite
+26,B,Crude petroleum and natural gas
+27,B,Mining of metal ores
+28,B,Other mining and quarrying products
+29,B,Mining support services
+30,C,Processing and preserving of meat and production of meat products
+31,C,"Processing and preserving of fish, crustaceans, molluscs, fruit and vegetables"
+32,C,Manufacture of vegetable and animal oils and fats
+33,C,Manufacture of dairy products
+34,C,"Manufacture of grain mill products, starches and starch products"
+35,C,Manufacture of bakery and farinaceous products
+36,C,Manufacture of other food products
+37,C,Manufacture of prepared animal feeds
+38,C,"Manufacture of alcoholic beverages, including spirits, wine, cider, beer and malt"
+39,C,Manufacture of soft drinks: production of mineral waters and other bottled waters
+40,C,Tobacco products
+41,C,Textiles
+42,C,Wearing apparel
+43,C,Leather and related products
+44,C,"Wood and of products of wood and cork, except furniture; articles of straw and plaiting materials"
+45,C,Paper and paper products
+46,C,Printing and recording services
+47,C,Manufacture of coke oven products
+48,C,Manufacture of refined petroleum products
+49,C,Manufacture of industrial gases and non-nitrogen-based inorganic chemicals
+50,C,Fertilisers
+51,C,Other nitrogen compounds
+52,C,Manufacture of petrochemicals
+53,C,"Manufacture of dyestuffs, agro-chemicals"
+54,C,"Manufacture of paints, varnishes & ink"
+55,C,Manufacture of cleaning & toilet preparations
+56,C,Manufacture of other chemical products & man-made fibres
+57,C,Basic pharmaceutical products and pharmaceutical preparations
+58,C,Rubber products
+59,C,Plastics products
+60,C,"Manufacture of glass, refractory, clay, other porcelain and ceramic products, Stone, & abrasive products"
+61,C,Manufacture of cement
+62,C,Manufacture of lime
+63,C,Manufacture of plaster
+64,C,"Manufacture of articles of concrete, cement and plaster"
+65,C,Manufacture of basic Iron & Steel
+66,C,Manufacture of other basic metals & casting (excl. Nuclear fuel & Aluminium)
+67,C,Aluminium production
+68,C,Processing of nuclear fuel
+69,C,"Fabricated metal products, except machinery and equipment, excluding weapons and ammunition"
+70,C,Manufacture of weapons and ammunition
+71,C,"Computer, electronic, communication and optical products"
+72,C,Electrical equipment
+73,C,Machinery and equipment n.e.c.
+74,C,"Motor vehicles, trailers and semi-trailers"
+75,C,Building of ships and boats
+76,C,Manufacture of air and spacecraft and related machinery
+77,C,"Manufacture of other transport equipment, excluding ships, boats, air and spacecraft"
+78,C,Furniture
+79,C,Other manufactured goods
+80,C,Repair & maintenance of ships
+81,C,Repair & maintenance of aircraft  & spacecraft
+82,C,Rest of repair; Installation
+83,D,Electricity production - gas
+84,D,Electricity production - coal
+85,D,Electricity production - nuclear
+86,D,Electricity production - oil
+87,D,Electricity production - other
+88,D,Manufacture of gas; distribution of gaseous fuels through mains and steam and air conditioning supply
+89,E,Natural water; water treatment and supply services
+90,E,Sewerage services; sewage sludge
+91,E,"Waste collection, treatment and disposal services; materials recovery services"
+92,E,Remediation services and other waste management services
+93,F,Buildings and building construction works
+94,F,Constructions and construction works for civil engineering
+95,F,Specialised construction works
+96,G,Wholesale and retail trade and repair services of motor vehicles and motorcycles
+97,G,"Wholesale trade services, except of motor vehicles and motorcycles"
+98,G,"Retail trade services, except of motor vehicles and motorcycles"
+99,H,Rail transport
+100,H,"Buses, coaches, trams and similar public urban transport n.e.c"
+101,H,"Underground, metro other non interurban rail services"
+102,H,Taxis and other renting of private cars with driver
+103,H,Freight transport by road and removal services
+104,H,Transport via pipeline
+105,H,Water transport services
+106,H,Air transport services
+107,H,Warehousing and support services for transportation
+108,H,Postal and courier services
+109,I,Accommodation services
+110,I,Food and beverage serving services
+111,J,Publishing services
+112,J,"Motion picture, video and television programme production services, sound recording and music publishing"
+113,J,Programming and broadcasting services
+114,J,Telecommunications services
+115,J,"Computer programming, consultancy and related services"
+116,J,Information services
+117,K,"Financial services, except insurance and pension funding"
+118,K,Insurance & Reinsurance
+119,K,Pension funding
+120,K,Services auxiliary to financial services and insurance services
+121,L,"Buying and selling of own real estate: renting and operating of own or leased real estate, excluding imputed rent"
+122,L,Real estate activities on a fee or contract basis
+123,M,Legal activities
+124,M,"Accounting, bookkeeping and auditing activities: tax consultancy"
+125,M,Services of head offices; management consulting services
+126,M,Architectural and engineering services; technical testing and analysis services
+127,M,Scientific research and development services
+128,M,Advertising and market research services
+129,M,"Other professional, scientific and technical services"
+130,M,Veterinary services
+131,N,Rental and leasing services
+132,N,Employment services
+133,N,"Travel agency, tour operator and other reservation services and related services"
+134,N,Security and investigation services
+135,N,Services to buildings and landscape
+136,N,"Office administrative, office support and other business support services"
+137,O,Public administration; compulsory social security services
+138,O,Public defence services
+139,P,Education services
+140,Q,Human health services
+141,Q,Residential care services
+142,Q,Social work services without accommodation
+143,R,"Creative, arts and entertainment services"
+144,R,"Library, archive, museum and other cultural services"
+145,R,Gambling and betting services
+146,R,Sporting services and amusement and recreation services
+147,S,Services furnished by membership organisations
+148,S,Repair services of computers and personal and household goods
+149,S,Other personal services
+150,T,Services of households as employers of domestic personnel
+151,,Consumer expenditure - not travel
+152,,Consumer expenditure - travel
