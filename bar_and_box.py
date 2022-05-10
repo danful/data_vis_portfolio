@@ -29,11 +29,12 @@ renewable_prop_df = renewable_df.div(total_consumption)
 ## Plotting visualisations
 # Bar chart
 bar_df = renewable_prop_df.T
+bar_df = bar_df.sort_values('2019', ascending = False)
 
-fig, ax = plt.subplots(figsize = (6,6))
+fig, ax = plt.subplots(figsize = (9,6))
 fig.suptitle('Proportion of Energy Consumption\nfrom Renewable Sources by industry (2019)')
 box = ax.get_position()
-ax.set_position([box.x0 + 0.2, box.y0, box.width * 0.8, box.height])
+ax.set_position([box.x0 + 0.25, box.y0, box.width * 0.8, box.height])
 sns.barplot(x=bar_df['2019'], y=bar_df.index, data=bar_df, ax=ax, orient='h', color='#33a02c')
 ax.set_xlabel('Proportion')
 plt.show()

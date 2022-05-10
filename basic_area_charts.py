@@ -39,7 +39,9 @@ labels = list(ghg_vis_df.index)
 colours = [COLOUR_DICT.get(label) for label in labels]
 
 fig, ax = plt.subplots(figsize = (9,6.7))
-ax.set_title('Greenhouse Gas Emissions by Industry Over Time\n($\mathregular{CO_2}$ Equivalent/Kilotonnes)')
+ax.set_title('Greenhouse Gas Emissions by Industry Over Time\n($\mathregular{CO_2}$ Equivalent/Kilotonnes)', fontsize = 14)
+ax.set_xlabel('Year', fontsize = 13)
+ax.set_ylabel('Greenhouse Gas Emissions ($\mathregular{CO_2}$ Equivalent/Kilotonnes)', fontsize = 13)
 ax.stackplot(years, ghg_vis_df.values.tolist(), colors=colours)
 ax.legend(loc = 'upper right', labels = labels)
 ax.set_xticklabels(years, rotation = 45)
@@ -52,7 +54,9 @@ labels = list(fossil_vis_df.index)
 colours = [COLOUR_DICT.get(label) for label in labels]
 
 fig, ax = plt.subplots(figsize = (9,6.7))
-ax.set_title('Fossil fuel consumption by Industry (MTOE)')
+ax.set_title('Fossil fuel consumption by Industry (Mtoe)', fontsize = 14)
+ax.set_xlabel('Year', fontsize = 13)
+ax.set_ylabel('Energy Consumption (Mtoe)', fontsize = 13)
 ax.stackplot(years, fossil_vis_df.values.tolist(), colors=colours)
 ax.set_xticklabels(years, rotation = 45)
 box = ax.get_position()
@@ -67,7 +71,9 @@ labels = list(renewable_vis_df.index)
 colours = [COLOUR_DICT.get(label) for label in labels]
 
 fig, ax = plt.subplots(figsize = (9,6.7))
-ax.set_title('Renewable energy consumption by Industry (MTOE)')
+ax.set_title('Renewable energy consumption by Industry (Mtoe)', fontsize = 14)
+ax.set_xlabel('Year', fontsize = 13)
+ax.set_ylabel('Energy Consumption (Mtoe)', fontsize = 13)
 ax.stackplot(years, renewable_vis_df.values.tolist(), colors=colours)
 ax.set_xticklabels(years, rotation = 45)
 ax.legend(loc = 'upper left', labels = labels)
